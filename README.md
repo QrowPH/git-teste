@@ -1,4 +1,4 @@
 # git teste
 Primeiro git
 
-Repositório criado para testar o hit
+Repositório criado para testar o git
