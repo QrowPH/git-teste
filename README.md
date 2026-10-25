@@ -1,4 +1,3 @@
-# git teste
-Primeiro git
+# Aprendendo Python
 
-Repositório criado para testar o git
+Respósitorio feito para colocar meus exercios em python
